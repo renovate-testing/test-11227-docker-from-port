@@ -1,3 +1,3 @@
-FROM docker.io:443/renovate/renovate:25.69.1
+FROM quay.io:443/bitnami/sealed-secrets-controller:v0.14.0
 
 RUN echo hello
